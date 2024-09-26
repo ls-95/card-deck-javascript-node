@@ -1,0 +1,16 @@
+{
+  "name": "card-deck-javascript-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ez-read": "^1.0.9",
+    "node-emoji": "^2.1.3"
+  }
+}
